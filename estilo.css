@@ -305,21 +305,21 @@ body{
 .name {
     background-color: white;
     border-bottom: 5px var(--color-secondary);
-    color: white;
+    color: black;
     width:300px;
     }
 
 .email {
     background-color: white;
     border-bottom: 5px var(--color-secondary);
-    color: white;
+    color: black;
     width:300px;
     }
 
 .message {
     background-color: white;
     border-bottom: 5px var(--color-secondary);
-    color: white;
+    color: black;
     width:300px;
     height: 100px;
     }
@@ -327,7 +327,7 @@ body{
 .submit{
     background-color: var(--color-primary);
     border-bottom: 5px var(--color-primary);
-    color: white;
+    color: black;
     width:300px;
     transform: translateY(-120px);
     }
@@ -355,7 +355,7 @@ body{
     border-radius:5px;
     padding:10px;
     width:200px;
-    color: white;
+    color: black;
     background-color: var(--color-primary);
     border-bottom: 5px var(--color-primary);
     margin-top: 150px;
